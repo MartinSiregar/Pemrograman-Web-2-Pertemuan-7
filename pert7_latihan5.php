@@ -6,7 +6,7 @@
 
 <body>
   <?php
-  $program = array('Bobo', 'Doraemon', 'Spiderman', 'Lord Naki');
+  $program = array('Bobo', 'Doraemon', 'Spiderman');
   list($Majalah, $Komik, $Film, $director) = $program;
   echo "Jenis Buku & Hiburan :";
   echo "<br />";
